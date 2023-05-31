@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 15px 30px;
+  &-contacts {
+    width: 30%;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    &-text {
+      margin-bottom: 3px;
+    }
+  }
+  .logo-wrapper {
+    height: 114px;
+  }
+
+  .logo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration: none;
+    cursor: pointer;
+  }
+}
