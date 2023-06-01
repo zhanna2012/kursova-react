@@ -1,0 +1,158 @@
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/appsettings.Development.json
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/appsettings.json
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/UniversityAPI
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/UniversityAPI.deps.json
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/UniversityAPI.runtimeconfig.json
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/UniversityAPI.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/UniversityAPI.pdb
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Azure.Core.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Azure.Identity.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/BCrypt.Net-Core.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/OneOf.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/System.Memory.Data.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.csproj.AssemblyReference.cache
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.AssemblyInfoInputs.cache
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.AssemblyInfo.cs
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.csproj.CoreCompileInputs.cache
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/staticwebassets/msbuild.UniversityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.UniversityAPI.props
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.UniversityAPI.props
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.UniversityAPI.props
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/staticwebassets.build.json
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/staticwebassets.development.json
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/scopedcss/bundle/UniversityAPI.styles.css
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.csproj.CopyComplete
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/refint/UniversityAPI.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.pdb
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/UniversityAPI.genruntimeconfig.cache
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/obj/Debug/net7.0/ref/UniversityAPI.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/home/alex/TestProjects/UniversityProject/src/UniversityAPI/bin/Debug/net7.0/UniversityAPI.staticwebassets.runtime.json
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\appsettings.json
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\UniversityAPI.staticwebassets.runtime.json
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\UniversityAPI.exe
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\UniversityAPI.deps.json
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\UniversityAPI.runtimeconfig.json
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\UniversityAPI.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\UniversityAPI.pdb
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\BCrypt.Net-Core.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\OneOf.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.csproj.AssemblyReference.cache
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.AssemblyInfoInputs.cache
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.AssemblyInfo.cs
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.csproj.CoreCompileInputs.cache
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\staticwebassets\msbuild.UniversityAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.UniversityAPI.props
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UniversityAPI.props
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UniversityAPI.props
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\scopedcss\bundle\UniversityAPI.styles.css
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.csproj.CopyComplete
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\refint\UniversityAPI.dll
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.pdb
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\UniversityAPI.genruntimeconfig.cache
+C:\UNIVERCITY\6 SEMESTER\REACT KURSOVA\UniversityProject\src\UniversityAPI\obj\Debug\net7.0\ref\UniversityAPI.dll
